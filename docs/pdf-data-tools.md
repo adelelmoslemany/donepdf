@@ -97,7 +97,7 @@ When working with PDF data tools:
 
 ## 🧾 Related Tools
 
-- PDF to Excel: https://donepdf.com/pdf-to-excel
+- PDF to Excel: https://donepdf.com/convert-pdf-to-excel
 - PDF to CSV: https://donepdf.com/pdf-to-csv
 - Extract Tables from PDF: https://donepdf.com/pdf-data-tools
 
